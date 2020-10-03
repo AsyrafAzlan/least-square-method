@@ -10,7 +10,7 @@ Based on the book:
 
 In this simulation, the program is trying to optimize 5 targeted weights with the values:
 </br>0.2, 0.3, 0.4, 0.5, 0.6
-</br>0.2sin(2\*pi\*f) later on for illustration purposes.
+</br>0.2 is  later changed to 0.2sin(2\*pi\*f)for illustration purposes.
 
 This simulation also explores the effect of forgetting factor.
 Forgetting factor, *q* is used because old information regarding estimation has less significance than new information when calculating the estimates of the system parameters.  It gives the algorithm a tracking capability. 0 < *q* < 1
